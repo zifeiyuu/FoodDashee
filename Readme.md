@@ -1,18 +1,17 @@
-# 🍔 FoodDashee - Online Food Delivery Platform
+# FoodDashee - Online Food Delivery Platform
 
 **FoodDashee** is a food delivery application built with **Spring Boot + Maven**, providing complete workflows for customers, merchants, and delivery drivers.  
 The system supports browsing restaurants, placing orders, managing menus, and real-time order tracking.
 
 ---
 
-## ✨ Features
+## Features
 
 ### Customer App
 - User registration & login
 - Browse restaurants and menus
 - Add items to cart and place orders
 - Online payment
-- Track order status (Placed → Accepted → Preparing → Delivering → Completed)
 
 ### Merchant App
 - Manage restaurant profile and menus
@@ -32,7 +31,7 @@ The system supports browsing restaurants, placing orders, managing menus, and re
 
 ---
 
-## 🏗 Tech Stack
+## Tech Stack
 
 - **Backend**: Spring Boot, Spring MVC, MyBatis, Maven  
 - **Database**: MySQL, Redis  
@@ -44,7 +43,7 @@ The system supports browsing restaurants, placing orders, managing menus, and re
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 sky-take-out/
@@ -56,7 +55,7 @@ sky-take-out/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone Repository
 ```bash
@@ -88,18 +87,7 @@ npm run serve
 ### 5. Access
 - Customer App: http://localhost:8080  
 - Admin Dashboard: http://localhost:8080/admin  
-
 ---
 
-## 📸 Screenshots
-(Add screenshots of customer ordering, merchant managing orders, and driver delivery tracking)
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
-
----
-
-## 📜 License
+## License
 MIT License © 2025 [zifeiyuu](https://github.com/zifeiyuu)
